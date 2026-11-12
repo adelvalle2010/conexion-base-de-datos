@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<rect x="0" y="0" width="760" height="440" fill="#ffffff"/>
+<text x="380.0" y="28.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Símbolos de la notación de Chen</text>
+<rect x="60.0" y="66.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="130.0" y="90.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">ENTIDAD</text>
+<text x="130.0" y="128.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Entidad</text>
+<rect x="310.0" y="66.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<rect x="315.0" y="71.0" width="130" height="38" rx="2" fill="none" stroke="#1a3d6d" stroke-width="1.5"/>
+<text x="380.0" y="90.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">EJEMPLAR</text>
+<text x="380.0" y="128.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Entidad débil (doble)</text>
+<polygon points="620.0,53.0 686.0,90.0 620.0,127.0 554.0,90.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<text x="620.0" y="90.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">relación</text>
+<text x="620.0" y="138.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Relación</text>
+<polygon points="130.0,173.0 196.0,210.0 130.0,247.0 64.0,210.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<polygon points="130.0,182.0 183.4,210.0 130.0,238.0 76.6,210.0" fill="none" stroke="#9a5a12" stroke-width="1.4"/>
+<text x="130.0" y="210.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">presta</text>
+<text x="130.0" y="258.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Relación identificadora</text>
+<ellipse cx="380.0" cy="205.0" rx="52" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="380.0" y="205.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nombre</text>
+<text x="380.0" y="250.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Atributo</text>
+<ellipse cx="620.0" cy="205.0" rx="52" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="620.0" y="205.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">id_libro</text>
+<line x1="594.2" y1="213.0" x2="645.8" y2="213.0" stroke="#15324f" stroke-width="1.1"/>
+<text x="620.0" y="250.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Atributo clave (subrayado)</text>
+<ellipse cx="130.0" cy="330.0" rx="52" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<ellipse cx="130.0" cy="330.0" rx="48" ry="18" fill="none" stroke="#5b6b7f" stroke-width="1.2"/>
+<text x="130.0" y="330.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">telefono</text>
+<text x="130.0" y="372.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Multivaluado (doble)</text>
+<ellipse cx="380.0" cy="330.0" rx="52" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6" stroke-dasharray="5,3"/>
+<text x="380.0" y="330.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">edad</text>
+<text x="380.0" y="372.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Derivado (punteado)</text>
+<polygon points="620.0,297.0 655.0,343.0 585.0,343.0" fill="#efe6fb" stroke="#6b2fb3" stroke-width="2"/>
+<text x="620.0" y="327.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="bold" fill="#6b2fb3" text-anchor="middle" dominant-baseline="middle">ES UN</text>
+<text x="620.0" y="372.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">Jerarquía ES-UN (ISA)</text>
+<text x="380.0" y="410.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="normal" fill="#44566b" text-anchor="middle" dominant-baseline="middle">Las líneas unen las figuras; sobre ellas se anota la cardinalidad (1, N, M).</text>
+</svg>
