@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 300" width="1060" height="300" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<rect x="0" y="0" width="1060" height="300" fill="#ffffff"/>
+<line x1="180.0" y1="150.0" x2="355.0" y2="150.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="355.0" y1="150.0" x2="530.0" y2="150.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="530.0" y1="150.0" x2="705.0" y2="150.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="705.0" y1="150.0" x2="880.0" y2="150.0" stroke="#44566b" stroke-width="1.7"/>
+<text x="225.5" y="162.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="484.5" y="162.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="575.5" y="162.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="834.5" y="162.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">N</text>
+<rect x="110.0" y="126.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="180.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">DOCENTE</text>
+<rect x="460.0" y="126.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="530.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">ASIGNATURA</text>
+<rect x="810.0" y="126.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="880.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">ESTUDIANTE</text>
+<polygon points="355.0,117.0 414.0,150.0 355.0,183.0 296.0,150.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<text x="355.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">dicta</text>
+<polygon points="705.0,115.0 780.0,150.0 705.0,185.0 630.0,150.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<text x="705.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">se inscribe en</text>
+</svg>

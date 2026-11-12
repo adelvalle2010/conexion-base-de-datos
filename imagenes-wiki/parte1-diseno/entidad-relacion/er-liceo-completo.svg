@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 540" width="1160" height="540" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<rect x="0" y="0" width="1160" height="540" fill="#ffffff"/>
+<line x1="190.0" y1="270.0" x2="380.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="380.0" y1="270.0" x2="570.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="570.0" y1="270.0" x2="760.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="760.0" y1="270.0" x2="960.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="110.0" y1="150.0" x2="190.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="80.0" y1="270.0" x2="190.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="110.0" y1="390.0" x2="190.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="570.0" y1="140.0" x2="570.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="460.0" y1="400.0" x2="570.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="1050.0" y1="150.0" x2="960.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="1090.0" y1="270.0" x2="960.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="1050.0" y1="390.0" x2="960.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="940.0" y1="420.0" x2="960.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="890.0" y1="150.0" x2="960.0" y2="270.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="760.0" y1="270.0" x2="760.0" y2="400.0" stroke="#44566b" stroke-width="1.7"/>
+<text x="239.4" y="282.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="520.6" y="282.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="619.4" y="282.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="908.0" y="282.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">N</text>
+<ellipse cx="110.0" cy="150.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="110.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">id_docente</text>
+<line x1="77.8" y1="158.0" x2="142.2" y2="158.0" stroke="#15324f" stroke-width="1.1"/>
+<ellipse cx="80.0" cy="270.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="80.0" y="270.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nombre</text>
+<ellipse cx="110.0" cy="390.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="110.0" y="390.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">apellido</text>
+<ellipse cx="570.0" cy="140.0" rx="46" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="570.0" y="140.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">id_asignatura</text>
+<line x1="528.1" y1="148.0" x2="611.9" y2="148.0" stroke="#15324f" stroke-width="1.1"/>
+<ellipse cx="460.0" cy="400.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="460.0" y="400.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nombre</text>
+<ellipse cx="1050.0" cy="150.0" rx="46" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="1050.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">id_estudiante</text>
+<line x1="1008.1" y1="158.0" x2="1091.9" y2="158.0" stroke="#15324f" stroke-width="1.1"/>
+<ellipse cx="1090.0" cy="270.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="1090.0" y="270.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nombre</text>
+<ellipse cx="1050.0" cy="390.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="1050.0" y="390.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">apellido</text>
+<ellipse cx="940.0" cy="420.0" rx="66" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="940.0" y="420.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">fecha_nacimiento</text>
+<ellipse cx="890.0" cy="150.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="890.0" y="150.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">grupo</text>
+<rect x="120.0" y="246.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="190.0" y="270.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">DOCENTE</text>
+<rect x="500.0" y="246.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="570.0" y="270.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">ASIGNATURA</text>
+<rect x="890.0" y="246.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="960.0" y="270.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">ESTUDIANTE</text>
+<polygon points="380.0,237.0 439.0,270.0 380.0,303.0 321.0,270.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<text x="380.0" y="270.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">dicta</text>
+<polygon points="760.0,234.0 836.0,270.0 760.0,306.0 684.0,270.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<text x="760.0" y="270.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">se inscribe en</text>
+<ellipse cx="760.0" cy="410.0" rx="42" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="760.0" y="410.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nota</text>
+</svg>

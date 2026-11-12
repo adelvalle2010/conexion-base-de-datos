@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 430" width="1080" height="430" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<rect x="0" y="0" width="1080" height="430" fill="#ffffff"/>
+<line x1="175.0" y1="200.0" x2="350.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="350.0" y1="200.0" x2="530.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="530.0" y1="200.0" x2="705.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="705.0" y1="200.0" x2="885.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="110.0" y1="100.0" x2="175.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="110.0" y1="310.0" x2="175.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="530.0" y1="95.0" x2="530.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="470.0" y1="330.0" x2="530.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="600.0" y1="330.0" x2="530.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="960.0" y1="100.0" x2="885.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="985.0" y1="230.0" x2="885.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="960.0" y1="320.0" x2="885.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="620.0" y1="390.0" x2="705.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="720.0" y1="390.0" x2="705.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<line x1="820.0" y1="390.0" x2="705.0" y2="200.0" stroke="#44566b" stroke-width="1.7"/>
+<text x="220.5" y="212.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="483.2" y="212.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="575.5" y="212.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="838.2" y="212.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="bold" fill="#15324f" text-anchor="middle" dominant-baseline="middle">M</text>
+<ellipse cx="110.0" cy="100.0" rx="66" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="110.0" y="100.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">id_especialidad</text>
+<line x1="61.7" y1="108.0" x2="158.3" y2="108.0" stroke="#15324f" stroke-width="1.1"/>
+<ellipse cx="110.0" cy="310.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="110.0" y="310.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nombre</text>
+<ellipse cx="530.0" cy="95.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="530.0" y="95.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">id_medico</text>
+<line x1="501.0" y1="103.0" x2="559.0" y2="103.0" stroke="#15324f" stroke-width="1.1"/>
+<ellipse cx="470.0" cy="330.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="470.0" y="330.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nombre</text>
+<ellipse cx="600.0" cy="330.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="600.0" y="330.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">apellido</text>
+<ellipse cx="960.0" cy="100.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="960.0" y="100.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">id_paciente</text>
+<line x1="924.6" y1="108.0" x2="995.4" y2="108.0" stroke="#15324f" stroke-width="1.1"/>
+<ellipse cx="985.0" cy="230.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="985.0" y="230.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">nombre</text>
+<ellipse cx="960.0" cy="320.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="960.0" y="320.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">apellido</text>
+<rect x="105.0" y="176.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="175.0" y="200.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">ESPECIALIDAD</text>
+<rect x="460.0" y="176.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="530.0" y="200.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">MEDICO</text>
+<rect x="815.0" y="176.0" width="140" height="48" rx="3" fill="#e8f0fe" stroke="#1a3d6d" stroke-width="2"/>
+<text x="885.0" y="200.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="bold" fill="#1a3d6d" text-anchor="middle" dominant-baseline="middle">PACIENTE</text>
+<polygon points="350.0,168.0 405.0,200.0 350.0,232.0 295.0,200.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<text x="350.0" y="200.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">tiene</text>
+<polygon points="705.0,163.0 790.0,200.0 705.0,237.0 620.0,200.0" fill="#fde8c8" stroke="#9a5a12" stroke-width="2"/>
+<text x="705.0" y="200.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#9a5a12" text-anchor="middle" dominant-baseline="middle">atiende en consulta</text>
+<ellipse cx="620.0" cy="390.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="620.0" y="390.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">fecha</text>
+<ellipse cx="720.0" cy="390.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="720.0" y="390.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">hora</text>
+<ellipse cx="820.0" cy="390.0" rx="44" ry="22" fill="#ffffff" stroke="#5b6b7f" stroke-width="1.6"/>
+<text x="820.0" y="390.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#15324f" text-anchor="middle" dominant-baseline="middle">diagnostico</text>
+</svg>
